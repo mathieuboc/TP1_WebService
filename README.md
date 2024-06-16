@@ -1,7 +1,7 @@
 # Web Services 
 
 
-#### Set up virtual environment
+#### Lignes de commmandes à exécuter pour l'environnement virtuel :
 
 **Create virtual environment** 
 ```
